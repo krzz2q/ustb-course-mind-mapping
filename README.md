@@ -1,1 +1,1 @@
-ustb-course-mind-mapping
+# ustb-course-mind-mapping
